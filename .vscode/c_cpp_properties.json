@@ -12,7 +12,7 @@
                 "C:\\Users\\Janith\\Documents\\Arduino\\libraries\\**"
             ],
             "forcedInclude": [
-                "C:\\\\Program Files (x86)\\\\Arduino\\\\hardware\\\\arduino\\\\avr\\\\cores\\\\arduino\\\\Arduino.h"
+                "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
             ],
             "intelliSenseMode": "msvc-x64"
         }
