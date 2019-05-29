@@ -24,7 +24,7 @@ void setup() {
   display.setTextSize(2);       // Initialize Display
   display.setTextColor(WHITE);
   display.setCursor(25, 10);
-  display.print("LUX 7");
+  display.print("LUX 7");       // Display Initial Message
   display.display();
 
   delay(500);
