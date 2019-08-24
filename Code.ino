@@ -49,7 +49,7 @@ void loop() {
   else
     lux = val1;
   
-  display.clearDisplay();       // Diaplay Lux Value
+  display.clearDisplay();       // Display Lux Value
   display.print(lux);
   display.println(" LUX");
   display.print(prec);
