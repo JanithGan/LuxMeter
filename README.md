@@ -19,11 +19,7 @@ The lux value which was also called the luminance is a measure of amount of lumi
 We chose <i>TEMT6000</i> phototransistor module as the main sensor after analyzing several other sensing components. The linearity of light intensity with the output voltage and high sensitivity in visible range caused to choose <i>TEMT6000</i> photo transistor as sensor. Then for the processing part we used an Atmega328P microcontroller as it’s the chip used in the Arduino UNO so we can easily reprogram it for our purpose. Our device also has LCD display, from which the results can be easily viewed. 9v battery used as a power supply to this device. By measuring our device’s performance metrics with a commercially available lux meter and we made changes in our device to achieve high performance metrics.</div>
 <p></p>
 <div align="justify"> 
-Our lux meter is a combination of several types of amplifiers, rectifiers, clippers which is designed choosing most appropriate components. However, we had to face several difficulties such as limitations of the sensor and other components, designing and implementing the design.</div>
-<p></p>
-<div align="justify"> 
-This report presents the method which we used to develop our device in several stages, the practical problems we faced, selections and justifications, limitations and measurements of our device with comparison to another commercially available lux meter which we used for the calibration of our device as well as the problems we encountered in the process of developing this device and the solutions.</div>
-
+Proposed lux meter is a combination of several types of amplifiers, rectifiers, clippers which is designed choosing most appropriate components. However, we had to face several difficulties such as limitations of the sensor and other components, designing and implementing the design.</div>
 
 ### __COMPONENTS__
 
