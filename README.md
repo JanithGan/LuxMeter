@@ -2,7 +2,7 @@
 
 ## ENTC -  Semester 2 Project
 
-<center><img src="pics/lux_meter.jpg" alt="drawing" width="250"/></center>
+<p align="center"><img src="pics/lux_meter.jpg" alt="drawing" width="250"/></p>
 
 ### __MEASUREMENT__
 
@@ -42,21 +42,21 @@ This report presents the method which we used to develop our device in several s
 
 ### __SCHEMATICS__
 
-<center><img src="pics/SCH1.jpg" alt="drawing" width="500" hspace="20"/></center>
+<p align="center"><img src="pics/SCH1.jpg" alt="drawing" width="490"/></p>
 <p></p>
-<center><img src="pics/SCH2.jpg" alt="drawing" width="500"/></center>
+<p align="center"><img src="pics/SCH2.jpg" alt="drawing" width="550"/></p>
 <p></p>
-<center><img src="pics/SCH3.jpg" alt="drawing" width="500"/></center>
+<p align="center"><img src="pics/SCH3.jpg" alt="drawing" width="500"/></p>
 
 
 ### __PCB DESIGN__ - ALTIUM DESIGNER
 
-<center><img src="pics/PCB1.jpg" alt="drawing" width="200" hspace="20"/><img src="pics/PCB2.jpg" alt="drawing" width="200"/></center>
+<p align="center"><img src="pics/PCB1.jpg" alt="drawing" width="200"/>&#160;&#160;&#160; <img src="pics/PCB2.jpg" alt="drawing" width="200"/></p>
 
 ### __CAD DESIGN__ - SOLIDWORKS
 
-<center><img src="pics/CAD1.jpg" alt="drawing" height="235" hspace="20"/><img src="pics/CAD2.jpg" alt="drawing" width="200"/></center>
+<p align="center"><img src="pics/CAD1.jpg" alt="drawing" height="235"/>&#160;&#160;&#160; <img src="pics/CAD2.jpg" alt="drawing" width="200"/></p>
 
 ### __FINISHED DESIGN__
 
-<center><img src="pics/INT1.jpg" alt="drawing" height="200" hspace="20"/><img src="pics/INT2.jpg" alt="drawing" height="200"/></center>
+<p align="center"><img src="pics/INT1.jpg" alt="drawing" height="200"/>&#160;&#160;&#160; <img src="pics/INT2.jpg" alt="drawing" height="200"/></p>
